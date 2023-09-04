@@ -4,12 +4,6 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-#text{
-    color: #a2e064;
-    font-size: 50px;
-    font-family: 'Times New Roman';
-    padding-left: 610px;
-    }
 #box1{
     border: 2px;
     width: 250px;
