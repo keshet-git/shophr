@@ -1,11 +1,11 @@
 body{
     margin-top: 30px;
-    background-image:linear-gradient(rgb(9, 54, 71), rgb(99, 200, 227));
+    background-image:linear-gradient(rgb(9, 54, 71), rgb(53, 117, 135));
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 #text{
-    color: #2aebf2;
+    color: #a2e064;
     font-size: 50px;
     font-family: 'Times New Roman';
     padding-left: 610px;
